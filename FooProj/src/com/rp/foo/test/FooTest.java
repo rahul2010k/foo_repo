@@ -13,5 +13,6 @@ public class FooTest {
 		System.out.println("This is another test..");
 		
 		System.out.println("This is another test..");
+		
 	}
 }
