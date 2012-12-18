@@ -9,6 +9,8 @@ public class FooTest {
 
 
 
+		System.out.println("Test2");
+
 		
 	}
 }
